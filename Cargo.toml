@@ -1,0 +1,6 @@
+[package]
+name = "Shelldon"
+version = "0.1.0"
+authors = ["Christian Otter <turbotian@protonmail.com>"]
+
+[dependencies]
